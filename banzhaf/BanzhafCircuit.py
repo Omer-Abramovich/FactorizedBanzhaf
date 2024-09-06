@@ -1,5 +1,5 @@
 from collections import defaultdict
-from BanzhafEngine import Value
+from .BanzhafEngine import Value
 import time
 
 class DNFCircuit():

@@ -1,8 +1,8 @@
 import time
-from BanzhafEngine import Value
+from .BanzhafEngine import Value
 from copy import deepcopy
 from collections import defaultdict
-from BooleanFormula import *
+from .BooleanFormula import *
 
 
 class BooleanCircuit():
