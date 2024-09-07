@@ -1,6 +1,5 @@
 import time
 from .BanzhafEngine import Value
-from copy import deepcopy
 from collections import defaultdict
 from .BooleanFormula import *
 
@@ -102,16 +101,17 @@ def count_variables(formula):
             counts[variable] += 1
     return counts
 
-def exc_or(formula):
-  formula_true = deepcopy(formula)
-  formula_false = deepcopy(formula) #TODO maybe we don't need a second copy
 
+def exc_or(formula: BooleanFormula):
   counts = count_variables(formula) #TODO 
   max_fact = max(counts, key=counts.get) # TODO
 
-  if formula_true.partially_evaluate(max_fact, True):
+  eval_to_val, formula_true = formula.partially_evaluate(max_fact, True)
+  if eval_to_val:
      formula_true = TRUE_FORMULA
-  if formula_false.partially_evaluate(max_fact, False):
+
+  eval_to_val, formula_false = formula.partially_evaluate(max_fact, False)
+  if eval_to_val:
      formula_false = FALSE_FORMULA
 
   return max_fact, [formula_true, formula_false]

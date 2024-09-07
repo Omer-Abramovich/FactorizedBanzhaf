@@ -30,45 +30,38 @@ class BooleanFormula:
             raise ValueError("Either variable or subformulas must be provided")
         
         self.parent = parent
-
+        
     def partially_evaluate(self, variable, value):
         if self.is_leaf and self.identity == variable:
-            self.value = value
-            self.variables = set() #TODO Is necessary
-            return True
+            return True, value
         
         if variable not in self.variables:
-            return False
+            return False, self
         
-        self.variables = set()
+        new_subformulas = set()
         if (self.op == Operator.OR and value) or (self.op == Operator.AND and not value):
             should_clear = False
             for subformula in self.subformulas:
-                if subformula.partially_evaluate(variable, value):
+                evaluated_to_val, new_sub = subformula.partially_evaluate(variable, value)
+                if evaluated_to_val:
                     should_clear = True
                     break 
                 else:
-                    self.variables.update(subformula.variables)
+                    new_subformulas.add(new_sub)
 
         else:
-            should_clear = True
-            to_remove = set()
+            should_clear = True            
             for subformula in self.subformulas:
-                if subformula.partially_evaluate(variable, value):
-                    to_remove.add(subformula)
-                    # self.subformulas.remove(subformula)
-                else:
-                    should_clear = False
-                    self.variables.update(subformula.variables)
+                evaluated_to_val, new_sub = subformula.partially_evaluate(variable, value)
 
-            self.subformulas.difference_update(to_remove)
+                if not evaluated_to_val:
+                    new_subformulas.add(new_sub)
+                    should_clear = False
+
         if should_clear:
-            self.variables = set()
-            self.subformulas.clear()
-            self.value = value
-            return True
+            return True, value
         else:
-            return False        
+            return False, BooleanFormula(op = self.op, subformulas=new_subformulas)        
             
     def __zero_variables__(self):
         for k in self.variables:
