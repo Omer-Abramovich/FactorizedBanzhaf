@@ -1,0 +1,64 @@
+{
+    "Dataset": "Academic",
+    "Query_name": "1a_domain_name",
+    "Output_tuples": "",
+    "DNF": [
+        [
+            "015fedbe-2f41-4f86-a329-cd151368836a",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "4e324962-798f-4703-adce-7958b58970b0",
+            "9f0e594e-924c-47cc-a269-6e60be038594",
+            "358f15e4-3a14-4024-9cf0-ab8bfa624760"
+        ],
+        [
+            "b7ad0d04-b04f-4530-8c3c-8023e4e02fdf",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "1bd27dac-c6ee-4c27-9a6a-55822d2ac316",
+            "6ec3a169-75bf-4a3d-9de4-cf0c26e785c1",
+            "68cd9c01-9845-413d-9951-b75a6f72aa05"
+        ],
+        [
+            "2e50aa9d-a02a-4dec-9604-47d666e60abe",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "1bd27dac-c6ee-4c27-9a6a-55822d2ac316",
+            "6ec3a169-75bf-4a3d-9de4-cf0c26e785c1",
+            "68cd9c01-9845-413d-9951-b75a6f72aa05"
+        ],
+        [
+            "f90f99f1-7feb-4d61-8b4e-3d13e67812ea",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "29300a29-dd52-4348-a80e-55b24135ff24",
+            "baf986c5-5fa1-4322-ac2f-9f95222eaf03",
+            "23df300b-e90d-4d4b-92fe-60f2e38631f8"
+        ],
+        [
+            "53b5a9d0-2fa8-4d8f-8e18-272089dd5aeb",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "5e73282a-b40e-4ce8-8807-d77066a53972",
+            "dc3f6e8e-da7c-4a81-bb58-0dae95c0d18a",
+            "23df300b-e90d-4d4b-92fe-60f2e38631f8"
+        ],
+        [
+            "1088ba6d-b4e0-41d4-a08e-51cb6bb85d90",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "fc1412da-d97e-41d7-9a33-2486dc15cfdf",
+            "758a034e-e576-4916-ab47-1046882ce8b0",
+            "0576060b-7298-40a6-b1d8-90a13ab86e6a"
+        ],
+        [
+            "f60727b7-ef8d-4484-babf-110db65a201e",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "ba1741ba-e4bc-412f-ba70-974302e034c2",
+            "2fa48d9d-b4b4-4cd1-b453-f3a3ada23439",
+            "4dd74d74-ede4-4761-8a78-fc219f535963"
+        ],
+        [
+            "1088ba6d-b4e0-41d4-a08e-51cb6bb85d90",
+            "ae7dece4-dbc4-48fc-96ca-fc6a7d070d35",
+            "fc1412da-d97e-41d7-9a33-2486dc15cfdf",
+            "758a034e-e576-4916-ab47-1046882ce8b0",
+            "0e4d23dc-6408-4861-a022-6c93221d97ef"
+        ]
+    ],
+    "Signature": "(B*(E*(C*(A*D)*)*)*)*"
+}

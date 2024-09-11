@@ -1,0 +1,47 @@
+[
+    {
+        "operator": "and",
+        "subformula": [
+            "681b606a-ca4f-4822-a1c7-280c370101a5",
+            "eccac072-2138-4d11-9f65-69acf295b9f2",
+            "0928aa24-cd0c-4b69-bace-f1ca2b609109",
+            "92bdeabe-192c-459a-a01a-b902631f5294"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "f57c4cde-b0f0-43a0-aca0-c99db6ebd05f",
+            "eccac072-2138-4d11-9f65-69acf295b9f2",
+            "0928aa24-cd0c-4b69-bace-f1ca2b609109",
+            "92bdeabe-192c-459a-a01a-b902631f5294"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "e315da84-a7c2-4f8f-b6f1-d14d29f97743",
+            "eccac072-2138-4d11-9f65-69acf295b9f2",
+            "ced87e95-7278-4437-8014-06eb339ebb30",
+            "92bdeabe-192c-459a-a01a-b902631f5294"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "17eceb91-9895-4a7b-a49d-9e967d28cacc",
+            "eccac072-2138-4d11-9f65-69acf295b9f2",
+            "0928aa24-cd0c-4b69-bace-f1ca2b609109",
+            "92bdeabe-192c-459a-a01a-b902631f5294"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "70ee9239-433d-41b3-ab4b-29db2ef967f4",
+            "eccac072-2138-4d11-9f65-69acf295b9f2",
+            "cf7c4e93-8498-474d-b430-6169fe74d83b",
+            "92bdeabe-192c-459a-a01a-b902631f5294"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "Dataset": "Academic",
+    "Query_name": "6c_conference_name",
+    "Output_tuples": "",
+    "DNF": [
+        [
+            "6d0c0896-5a69-41c0-be49-69d6a116feb7",
+            "8acf2734-2d06-4f0c-8270-039fcbaf3f01",
+            "88eb9992-439c-4e3c-a869-af471f2cad8d",
+            "fdec7532-8925-4444-8c81-7669a29bb599"
+        ],
+        [
+            "6d0c0896-5a69-41c0-be49-69d6a116feb7",
+            "8acf2734-2d06-4f0c-8270-039fcbaf3f01",
+            "e58a182f-1706-46ae-8bf1-eaf3d9802bd2",
+            "615799a7-e373-408f-b845-aed8d7619479"
+        ]
+    ],
+    "Signature": "(B*(A*(C*D)*)*)*"
+}

@@ -1,0 +1,40 @@
+{
+    "Dataset": "Academic",
+    "Query_name": "7c_organization_name",
+    "Output_tuples": "",
+    "DNF": [
+        [
+            "017fee8a-6ad6-4202-8297-20dd22c1a445",
+            "2eb7433f-bf7a-48fc-826c-492aec17cd7e",
+            "cc5f6f24-de57-4b0a-ab95-69e9073fb6e3",
+            "9005ec4e-5ac8-431c-a357-1f156fd8c107",
+            "75626509-a8ee-4e4d-a3c8-974c0ebc7fba",
+            "0576060b-7298-40a6-b1d8-90a13ab86e6a"
+        ],
+        [
+            "c3d933f7-1892-4ade-9d89-07e3c90110db",
+            "e21a4895-877b-4043-abef-61d3bec0c2a7",
+            "1cd981d6-652d-4dab-8f41-ad081294fafe",
+            "e43b0bc4-6e1d-4222-b5b0-d4ffdfeabd38",
+            "5ae375aa-0c05-4904-974b-7ee3096810ec",
+            "0576060b-7298-40a6-b1d8-90a13ab86e6a"
+        ],
+        [
+            "c3d933f7-1892-4ade-9d89-07e3c90110db",
+            "e21a4895-877b-4043-abef-61d3bec0c2a7",
+            "179a424d-881b-4a37-af63-92159a53fd23",
+            "e43b0bc4-6e1d-4222-b5b0-d4ffdfeabd38",
+            "5ae375aa-0c05-4904-974b-7ee3096810ec",
+            "0576060b-7298-40a6-b1d8-90a13ab86e6a"
+        ],
+        [
+            "c3d933f7-1892-4ade-9d89-07e3c90110db",
+            "179a424d-881b-4a37-af63-92159a53fd23",
+            "1cd981d6-652d-4dab-8f41-ad081294fafe",
+            "e43b0bc4-6e1d-4222-b5b0-d4ffdfeabd38",
+            "5ae375aa-0c05-4904-974b-7ee3096810ec",
+            "0576060b-7298-40a6-b1d8-90a13ab86e6a"
+        ]
+    ],
+    "Signature": "(D*(E*(F*(A*(C*B)*)*)*)*)*"
+}

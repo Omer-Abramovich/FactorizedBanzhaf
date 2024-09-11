@@ -1,0 +1,20 @@
+{
+    "Dataset": "Academic",
+    "Query_name": "9c_author_name",
+    "Output_tuples": "",
+    "DNF": [
+        [
+            "7726ea44-bf4f-4aec-81c6-2ec13a28e087",
+            "eccac072-2138-4d11-9f65-69acf295b9f2",
+            "13b1f720-c037-4f4c-b156-393548ef48b3",
+            "84d37d4b-ab99-417f-871d-81c1f95df17a"
+        ],
+        [
+            "1d4e070e-6608-4787-b258-e964a8af3248",
+            "eccac072-2138-4d11-9f65-69acf295b9f2",
+            "1d678494-5387-4e96-b01b-c1e426c9297e",
+            "84d37d4b-ab99-417f-871d-81c1f95df17a"
+        ]
+    ],
+    "Signature": "(D*(B*(C*A)*)*)*"
+}

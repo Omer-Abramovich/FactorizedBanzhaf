@@ -1,0 +1,12 @@
+{
+    "Dataset": "Academic",
+    "Query_name": "10b_publication_year",
+    "Output_tuples": "",
+    "DNF": [
+        [
+            "9a8e3c13-4b4d-41c2-876b-02230946bd45",
+            "9bc5c00d-19c6-4954-a9ba-14b56feaccef"
+        ]
+    ],
+    "Signature": "(B*A)*"
+}

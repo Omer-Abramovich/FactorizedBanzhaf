@@ -1,0 +1,20 @@
+[
+    {
+        "operator": "and",
+        "subformula": [
+            "88f4f480-16ac-4349-8f78-366c3cac3aa6",
+            "6a488b6b-8288-45d6-939d-6e7238d9a1c4",
+            "856194b9-0062-4f7b-b76c-19eca18b73d1",
+            "8241e1d5-3f01-4443-a795-9876b225fcfe"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "88f4f480-16ac-4349-8f78-366c3cac3aa6",
+            "6a488b6b-8288-45d6-939d-6e7238d9a1c4",
+            "1c0283b3-41f7-4ea6-96dd-f0e66b0ef557",
+            "cec31a13-d14a-4ca7-ab63-b1262551dd12"
+        ]
+    }
+]

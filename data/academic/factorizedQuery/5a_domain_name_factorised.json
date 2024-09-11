@@ -1,0 +1,16 @@
+[
+    {
+        "operator": "and",
+        "subformula": [
+            "7b2db075-7922-404f-a2f1-ca4562da9db4",
+            "9a1790fd-30b4-4ffe-bdc2-6979774778ba"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "7b2db075-7922-404f-a2f1-ca4562da9db4",
+            "a5f4ae89-01de-4eba-83ea-2bc43d548d55"
+        ]
+    }
+]

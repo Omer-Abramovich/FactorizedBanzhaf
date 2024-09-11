@@ -1,0 +1,261 @@
+[
+    {
+        "operator": "and",
+        "subformula": [
+            "925e77f6-a664-4b9a-9939-beb50f8860b4",
+            "1b16ff71-2d71-4726-a02b-a1f7f8707660",
+            "99d689db-c15f-4ad0-afb6-7fc4c55ecd75",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            {
+                "operator": "or",
+                "subformula": [
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            "bc67f522-9774-42d6-9f99-48746231a723",
+                            "f3605cf0-ff5e-46d6-ac34-cba64136109e"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "bc67f522-9774-42d6-9f99-48746231a723",
+                                    "f3605cf0-ff5e-46d6-ac34-cba64136109e"
+                                ]
+                            },
+                            "fdbd032c-f65f-4d5d-a4dc-114999d322ac"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "f3605cf0-ff5e-46d6-ac34-cba64136109e",
+                                    "bc67f522-9774-42d6-9f99-48746231a723",
+                                    "fdbd032c-f65f-4d5d-a4dc-114999d322ac"
+                                ]
+                            },
+                            "1dcc96a4-0250-455c-b87b-3450efebe32e"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "fdbd032c-f65f-4d5d-a4dc-114999d322ac",
+                                    "1dcc96a4-0250-455c-b87b-3450efebe32e",
+                                    "f3605cf0-ff5e-46d6-ac34-cba64136109e",
+                                    "bc67f522-9774-42d6-9f99-48746231a723"
+                                ]
+                            },
+                            "c63b4f93-81d3-45d8-81bb-47847c4eb7a5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "4f8fbe9d-fa47-48aa-94ce-32970d6ef499",
+            "bb2500fa-5d1f-4eab-8f5e-f9321345d87c",
+            "84e052ad-1172-4d63-bc64-57641f93942a",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            "e689f093-d91c-421c-b910-e30c79e4296d",
+            "76539e4a-b699-4da1-87e1-5ac8cd02ed06"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "f1a6ec74-ddd1-45c5-abd4-908988350e02",
+            "eb10b12a-647d-4148-ac63-2b56636a0529",
+            "665d1a4d-2306-4ab7-a346-53e333ded2a9",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            "b74cf261-8fc1-46f5-b8ec-91cb064ef62c",
+            "7a89f1b6-cb73-4728-b18b-18c0223264ac"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "c8f19fe8-b581-45f2-92cd-222e60aedc2f",
+            "425c334c-17b5-4bb4-a9e6-a16f84869625",
+            "8a93dbe2-4529-4418-8bcc-9075486d25c9",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            "a6ae45f3-a377-4916-a137-2cc1176ac88c",
+            "c093c2bc-c333-4ea5-836f-6a58b02fcbd5"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "c635db84-b054-4d8f-9b03-d2a886a3d65f",
+            "803d5501-34d8-417e-9a3a-2e250805bbbd",
+            "99d689db-c15f-4ad0-afb6-7fc4c55ecd75",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            {
+                "operator": "or",
+                "subformula": [
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            "3fcf8384-dae0-440a-b4e7-72296cb0dfe3",
+                            "c27ed313-06ba-4a3c-a109-ed31f59623ad"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "c27ed313-06ba-4a3c-a109-ed31f59623ad",
+                                    "3fcf8384-dae0-440a-b4e7-72296cb0dfe3"
+                                ]
+                            },
+                            "6b53c2e7-0756-4b92-8298-1b36ddee8102"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "de6694a3-3bf2-4006-8dcc-73c5add87f53",
+            "70273aea-a23f-4b2a-b2b8-a361a1fe59cb",
+            "9b64e31b-f6af-475b-92ce-2b98bf5c7b5e",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            {
+                "operator": "or",
+                "subformula": [
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            "f67e4591-f4df-4efa-8406-c55300a2d6db",
+                            "73b0587e-7d9b-4a67-956b-9afc32ba7ddd"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "f67e4591-f4df-4efa-8406-c55300a2d6db",
+                                    "73b0587e-7d9b-4a67-956b-9afc32ba7ddd"
+                                ]
+                            },
+                            "f07f224b-2eb1-4f9c-a6fb-fb0100747cee"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "f67e4591-f4df-4efa-8406-c55300a2d6db",
+                                    "73b0587e-7d9b-4a67-956b-9afc32ba7ddd",
+                                    "f07f224b-2eb1-4f9c-a6fb-fb0100747cee"
+                                ]
+                            },
+                            "3f633310-0d79-4aa0-872d-6c86c0934827"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "4f8fbe9d-fa47-48aa-94ce-32970d6ef499",
+            "495d7910-6584-4266-aa97-b6fa06a347d9",
+            "84e052ad-1172-4d63-bc64-57641f93942a",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            "370ac137-acb2-4e29-be30-2fcee729b308",
+            "fb33aa88-a820-4757-9afb-fa545b3b5d0f"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "3faabd4f-45ac-425c-92b1-fcb90b8816e9",
+            "dd5d6cdd-6e25-4a3e-b1be-1d777e96f1c8",
+            "99d689db-c15f-4ad0-afb6-7fc4c55ecd75",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            {
+                "operator": "or",
+                "subformula": [
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            "08addf38-d934-4ae9-98ad-fdb4f5ec13ad",
+                            "eacc4ee0-4dd7-4fde-9b22-32808391e140"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "08addf38-d934-4ae9-98ad-fdb4f5ec13ad",
+                                    "eacc4ee0-4dd7-4fde-9b22-32808391e140"
+                                ]
+                            },
+                            "f90d45a6-c541-42d8-9b3c-457f61340b10"
+                        ]
+                    },
+                    {
+                        "operator": "and",
+                        "subformula": [
+                            {
+                                "operator": "or",
+                                "subformula": [
+                                    "f90d45a6-c541-42d8-9b3c-457f61340b10",
+                                    "08addf38-d934-4ae9-98ad-fdb4f5ec13ad",
+                                    "eacc4ee0-4dd7-4fde-9b22-32808391e140"
+                                ]
+                            },
+                            "f62b8fc1-6bc3-45b0-a2bc-1893d5cebac1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "f3aa68db-ab42-4bb2-8f0d-2bdc8def9e0c",
+            "ba1c558b-348e-4df2-a2c7-500d84bbea93",
+            "9b64e31b-f6af-475b-92ce-2b98bf5c7b5e",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            "ee63aa66-0b68-4056-85d3-722ed38af674",
+            "167ecd4b-eabf-4ec7-b6f6-6b570dbc3fbd"
+        ]
+    },
+    {
+        "operator": "and",
+        "subformula": [
+            "604d4f92-c9d5-4a3b-b84d-09706ee5b09f",
+            "cbe582af-a68d-4b88-b57d-60890964e43c",
+            "8a93dbe2-4529-4418-8bcc-9075486d25c9",
+            "1878accf-edf0-4e3a-a5a3-296e1664d673",
+            "5317bac8-658a-40d6-9366-791e4aec129a",
+            "5e4e8950-059d-4383-be01-74cfff5c41a4"
+        ]
+    }
+]

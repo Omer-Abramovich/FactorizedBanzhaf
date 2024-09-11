@@ -1,0 +1,16 @@
+{
+    "Dataset": "Academic",
+    "Query_name": "7d_organization_name",
+    "Output_tuples": "",
+    "DNF": [
+        [
+            "77527ea6-add4-4113-a4f1-c6f7cf6135ef",
+            "cb114774-142f-492d-8cbd-066d638e25da",
+            "6e3952b7-5990-43a9-b824-158a45e44788",
+            "2df77bf9-cdba-4d66-b3c0-9561d03e9fd9",
+            "5efb1cf1-d5bf-41ba-8a3f-04e593554497",
+            "8eb11a01-a258-4e84-b748-4fde0bc4b855"
+        ]
+    ],
+    "Signature": "(B*(F*(D*(C*(A*E)*)*)*)*)*"
+}

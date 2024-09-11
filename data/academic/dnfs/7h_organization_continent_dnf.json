@@ -1,0 +1,16 @@
+{
+    "Dataset": "Academic",
+    "Query_name": "7h_organization_continent",
+    "Output_tuples": "",
+    "DNF": [
+        [
+            "51eebd48-739c-498c-8c4f-e6b003b8b86f",
+            "4497868b-7aef-47e4-96a8-edb07a133c69",
+            "568f398b-e271-4a55-a3b5-3659721766b5",
+            "3a0ab34f-61d9-416b-ae6d-117abf4f0d78",
+            "993180b0-3517-4308-82f0-e99b6dd08c54",
+            "8eb11a01-a258-4e84-b748-4fde0bc4b855"
+        ]
+    ],
+    "Signature": "(E*(B*(D*(C*(F*A)*)*)*)*)*"
+}
